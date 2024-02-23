@@ -1,1 +1,0 @@
-# Flag: EG{G1THUB_15_FUN}
